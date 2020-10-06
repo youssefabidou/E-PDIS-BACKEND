@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\bin",
+    "\\controllers",
+    "\\core",
+    "\\public\\images",
+    "\\public\\javascripts",
+    "\\routes",
+    "\\views"
+  ],
+  "SelectedNode": "\\app.js",
+  "PreviewInSolutionExplorer": false
+}
